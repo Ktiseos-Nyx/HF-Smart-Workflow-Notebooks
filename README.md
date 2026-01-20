@@ -1,6 +1,8 @@
-# 🚀  > Hugging Face Smart Workflow Notebooks: Streamline Your Model Sharing! 🚀
+#  Hugging Face Smart Workflow Streamline Your Model Sharing! 🚀
 
-[![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-xl-dark.svg)](https://huggingface.co/Duskfallcrew/Huggingface_Backup) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ktiseos-Nyx/HF-Smart-Workflow-Notebooks)
+[![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-xl-dark.svg)](https://huggingface.co/Duskfallcrew/Huggingface_Backup) 
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ktiseos-Nyx/HF-Smart-Workflow-Notebooks)
 
 ## Welcome to the Hugging Face Backup & Image Zipper
 
